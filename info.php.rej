@@ -1,8 +1,0 @@
-diff a/info.php b/info.php	(rejected hunks)
-@@ -0,0 +1,5 @@
-+<?php  
-+
-+phpinfo();
-+
-+?>
-\ No newline at end of file
